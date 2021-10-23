@@ -1,1 +1,1 @@
-# myDemo
+# myDemo test repo for all testing activities
